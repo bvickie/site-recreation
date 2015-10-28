@@ -1,8 +1,40 @@
 
 
-.container {
-    padding-right: 15px;
-    padding-left: 160px;
-    margin-right: auto;
-    margin-left: auto;
+body, html {
+    font-size: small;
 }
+
+.style {
+    height: 233px;
+    margin-top: 89px;
+}
+
+
+
+div {
+    display: block;
+}
+
+.logo {
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.logo container {
+	margin-left: 100px;
+}
+
+.nav container {
+    margin-bottom: 50px;
+    margin-top: auto;
+}
+
+.col-md-4 {
+	margin-left: 400px;
+}
+
+.form-control {
+	margin-left: 300px;
+}
+
